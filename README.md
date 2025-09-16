@@ -13,10 +13,10 @@
   <li><strong>Open to:</strong> Collaborations · Open-source contributions · Exciting opportunities</li>
 </ul>
 
-<p>🌱 Always learning, always improving.</p>
+<p>🌱 Always learning, always improving.
 
-🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
-
+🤝 I’m looking for help with<br>💬 Ask me about<br>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satinder-singh-6a232b140) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Satindersingh220597@gmail.com) 
