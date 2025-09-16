@@ -1,9 +1,9 @@
 <h1>👋 Hi, I'm <strong>Satinder Singh</strong></h1>
 
-<p><strong>💻 .NET & Frontend Developer</strong> · DevOps Enthusiast</p>
+<p><strong>💻 .NET & Frontend Developer | DevOps & Cloud Enthusiast</strong></p>
 
 <p>
-  I’m a passionate software developer with <strong>3+ years</strong> of experience building scalable web applications and backend systems.
+  I’m a passionate software developer with <strong>3.5+ years</strong> of experience building scalable web applications and backend systems.
   I enjoy turning complex problems into simple, elegant solutions while writing clean and maintainable code.
 </p>
 
