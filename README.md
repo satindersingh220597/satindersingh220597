@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Satinder Singh
-Full-stack Developer | ASP.NET Core | React | DevOps Enthusiast
+Full-stack Developer | ASP.NET Core | DevOps Enthusiast<br>
 🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
 
 
