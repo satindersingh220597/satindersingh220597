@@ -1,5 +1,20 @@
-# 👋 Hi, I'm Satinder Singh
-Full-stack Developer | ASP.NET Core | DevOps Enthusiast<br>
+<h1>👋 Hi, I'm <strong>Satinder Singh</strong></h1>
+
+<p><strong>💻 .NET & Frontend Developer</strong> · React · DevOps Enthusiast</p>
+
+<p>
+  I’m a passionate software developer with <strong>3+ years</strong> of experience building scalable web applications and backend systems.
+  I enjoy turning complex problems into simple, elegant solutions while writing clean and maintainable code.
+</p>
+
+<ul>
+  <li><strong>Skills:</strong> .NET · JavaScript · React · Tailwind CSS · SQL</li>
+  <li><strong>Exploring:</strong> DevOps · Cloud (AWS, Azure) · CI/CD Pipelines</li>
+  <li><strong>Open to:</strong> Collaborations · Open-source contributions · Exciting opportunities</li>
+</ul>
+
+<p>🌱 Always learning, always improving.</p>
+
 🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
 
 
