@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hi, I'm Satinder Singh
+Full-stack Developer | ASP.NET Core | React | DevOps Enthusiast
 🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
 
 
