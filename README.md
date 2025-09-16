@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm <strong>Satinder Singh</strong></h1>
 
-<p><strong>💻 .NET & Frontend Developer</strong> · React · DevOps Enthusiast</p>
+<p><strong>💻 .NET & Frontend Developer</strong> · DevOps Enthusiast</p>
 
 <p>
   I’m a passionate software developer with <strong>3+ years</strong> of experience building scalable web applications and backend systems.
@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-  <li><strong>Skills:</strong> .NET · JavaScript · React · Tailwind CSS · SQL</li>
+  <li><strong>Skills:</strong> .Dot Net · Html · Css · Tailwind CSS ·JavaScript . SQL</li>
   <li><strong>Exploring:</strong> DevOps · Cloud (AWS, Azure) · CI/CD Pipelines</li>
   <li><strong>Open to:</strong> Collaborations · Open-source contributions · Exciting opportunities</li>
 </ul>
