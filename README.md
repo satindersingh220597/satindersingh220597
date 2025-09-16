@@ -13,9 +13,7 @@
   <li><strong>Open to:</strong> Collaborations · Open-source contributions · Exciting opportunities</li>
 </ul>
 
-<p>🌱 Always learning, always improving.
-
-🤝 I’m looking for help with<br>💬 Ask me about<br>
+<p>🌱 Always learning, always improving.<br>🤝 I’m looking for help with<br>💬 Ask me about<br>
 </p>
 
 ## 🌐 Socials:
