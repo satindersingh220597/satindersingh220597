@@ -6,7 +6,10 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Satindersingh220597@gmail.com) 
 
 # 💻 Tech Stack:
-<p align="left">
+<p align="left" style="
+    display: flex;
+    justify-content: space-evenly;
+">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" style="margin-right:12px;" />
   </a>
