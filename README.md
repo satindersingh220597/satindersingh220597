@@ -7,7 +7,7 @@
 
 # 👨‍💻 About Me
 
-DevOps / SRE Engineer with 3+ years of experience in designing, automating, and maintaining scalable cloud-native infrastructure.
+DevOps / SRE Engineer with 4 years of experience in designing, automating, and maintaining scalable cloud-native infrastructure.
 
 🔹 AWS Certified Solutions Architect – Associate  
 🔹 Strong experience in Infrastructure as Code (Terraform)  
@@ -21,8 +21,8 @@ DevOps / SRE Engineer with 3+ years of experience in designing, automating, and 
 # 🏆 Certifications
 
 🟠 **AWS Certified Solutions Architect – Associate**  
-Credential ID: (Add your ID)  
-Verification: (Add your verification link)
+Credential ID:53a26448954545eeac5fcde7ecd5dc35 
+Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential
 
 ---
 
