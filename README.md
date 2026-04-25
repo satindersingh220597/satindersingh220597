@@ -45,14 +45,18 @@ Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential
 - Implemented zero-downtime deployment strategy
 
 ---
-<style> 
+<html>
+  <head></head>
+  <title>Profile</title>
+   <style> 
   .logo {
   display: flex !IMPORTANT;
   justify-content: space-around !IMPORTANT;
 }
 </style>
-# 💻 Tech Stack:
-<div align="left logo">
+  <body>
+   # 💻 Tech Stack:
+<div class="logo" align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" style="margin-right:2%!IMPORTANT;" />
   </a>
@@ -99,6 +103,10 @@ Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   </a>
 </div>
+
+  </body>
+</html>
+
 
 # 📊 GitHub Stats
 
