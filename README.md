@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Satinder Singh
+<html>
+  <head></head>
+  <title>Profile</title>
+   <style> 
+  .logo {
+  display: flex !IMPORTANT;
+  justify-content: space-around !IMPORTANT;
+}
+</style>
+  <body>
+    # 👋 Hi, I'm Satinder Singh
 
 🚀 DevOps / SRE Engineer | AWS Certified  
 ⚙️ Cloud Infrastructure | Kubernetes | Terraform | CI/CD | Automation  
@@ -44,17 +54,6 @@ Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential
 - Integrated Docker build & push
 - Implemented zero-downtime deployment strategy
 
----
-<html>
-  <head></head>
-  <title>Profile</title>
-   <style> 
-  .logo {
-  display: flex !IMPORTANT;
-  justify-content: space-around !IMPORTANT;
-}
-</style>
-  <body>
    # 💻 Tech Stack:
 <div class="logo" align="left">
   <a href="https://aws.amazon.com" target="_blank">
