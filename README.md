@@ -47,7 +47,7 @@ Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential
 ---
 
 # 💻 Tech Stack:
-<p align="left"dir="auto" style="
+<div align="left"dir="auto" style="
         display: flex !Important;
     justify-content: space-around !Important;">
   <a href="https://aws.amazon.com" target="_blank">
@@ -95,7 +95,7 @@ Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   </a>
-</p>
+</div>
 
 # 📊 GitHub Stats
 
